@@ -1,2 +1,2 @@
-# Telemetry
-ESTU Solar Team Telemetry System
+# ESTU_BMS
+ Battery Managment System
